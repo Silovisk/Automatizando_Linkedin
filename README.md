@@ -1,2 +1,2 @@
 # Automatizando_Linkedin
- Boot para fazer conexoes com alguma profissao e mandando mensagens para ajudar na conexao
+A ferramenta tem como propósito estabelecer conexões com uma determinada profissão específica e enviar mensagens com o objetivo de auxiliar no estabelecimento dessas conexões.
